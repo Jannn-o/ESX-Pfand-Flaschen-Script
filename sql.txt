@@ -1,0 +1,4 @@
+-- enter this in the database console
+
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+('pfandflasche', 'Pfand Flasche', 1, 0, 1);
